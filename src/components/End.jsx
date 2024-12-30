@@ -11,8 +11,10 @@ function End() {
         bad or sad over anything. 2025 will be a busy year for us but I have no
         doubts that we will be good 100%. I love you so so much Omotolani and
         I’ll not stop saying it cos you mean so much to me. Let’s do this again
-        in 2025 and even better🤭 All my love, Your sexy wife💋
+        in 2025 and even better🤭
       </p>
+
+      <p className="leading-loose mt-2">All my love, Your sexy wife💋</p>
     </div>
   );
 }

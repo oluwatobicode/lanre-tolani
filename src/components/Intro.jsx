@@ -3,10 +3,10 @@ import { motion } from "motion/react";
 const Intro = () => {
   return (
     <div className="grid place-content-center px-4 py-24 text-yellow-50">
-      <h1 className="max-w-2xl text-center text-5xl leading-snug">
-        Heyy🤭 Baby, I{" "}
+      <h1 className="max-w-2xl text-center text-[3rem] leading-snug">
+        Heyy🤭 My,{" "}
         <span className="relative">
-          always love
+          sweet boy
           <svg
             viewBox="0 0 286 73"
             fill="none"
@@ -25,7 +25,7 @@ const Intro = () => {
             />
           </svg>
         </span>{" "}
-        you so much!
+        this is an appreciation post!{" "}
       </h1>
     </div>
   );
